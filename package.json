@@ -1,0 +1,14 @@
+{
+  "name": "sanberlive45-rifqiap",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 Sanbercode 45 QA Automation - Rifqi Ardian Pratama",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "RifqiPratamaa",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
